@@ -6,7 +6,9 @@ The dataset contains information on restaurant sales, dates, costs, waiters, tip
 
 ## Objective
 The analysis has the following goals:
+
 **1. How the business can grow profitability without an increase in the amount of dishes sold?** 
+
 **2. When is the best time to restock inventory to prepare for the busiest operating days?**
 
 ## Data set
