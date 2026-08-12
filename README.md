@@ -1,5 +1,14 @@
 # restaurante-analytics
 An exploratory data analysis (EDA) of restaurant sales data using Python and PowerBI; outputs and recommendations are included.
+## Table of contents
+- [About]
+- [Objective]
+- [Data set]
+- [Key findings]
+  - [Profitability]
+  - [Inventory stock]
+- [Recommendations]
+
 
 ## About
 The dataset contains information on restaurant sales, dates, costs, waiters, tips, orders, product categories, subcategories, key products, and different branches.
