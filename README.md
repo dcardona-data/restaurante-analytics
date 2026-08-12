@@ -4,7 +4,7 @@ An exploratory data analysis (EDA) of restaurant sales data using Python and Pow
 - [About](#about)
 - [Objective](#objective)
 - [Data set](#data-set)
-- [Key findings](#key-finding)
+- [Key findings](#key-findings)
   - [Profitability](#profitability)
   - [Inventory stock](#inventory-stock)
 - [Recommendations](#recommendations)
