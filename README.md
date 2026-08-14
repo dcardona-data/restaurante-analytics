@@ -42,17 +42,18 @@ According to the analysis, the key findings are the following:
 ### 1. Profitability
 #### 1.1 Sales outliers
 Of total sales, 6.4% correspond to outliers sales, and from these, 71% are related with wines. Outliers where measured using IQR. Wines report a 31.08% profit margin, while main courses just 24.18%.
-![utililty](images/utilidades.png)
-<img src="Images/utilidades.PNG" alt="Dashboard del restaurante" width="600">
+<img src="Images/utilidades.PNG" alt="Dashboard del restaurante" width="400">
 
 #### 1.2 Customer patterns
 Busiest days are weekends with most of sales on fridays and saturdays. Also, in those days there are most new customers which besides give more tips than regular ones. 
 
 #### 1.3 Wine consumption by customer type
-However, this kind of customers _do not consume as much wine as regular customers do_: regular customer consume is almost three times more (8.81%) than new (2.97%).
+However, this kind of customers _do not consume as much wine as regular customers do_: from main courses and wines, regular customer consume is almost twice more (60 %) of wine than new curtomers (33 %).
+<img src="Images/consumo_vino.PNG" alt="Dashboard del restaurante" width="400">
 
 ### 2. Inventory stock
 Weekends are the busiest operating days and also generate significant wine sales. Therefore, inventory levels should be reviewed and replenished before the weekend to reduce the risk of stock shortages during peak operating days.
+<img src="Images/ventas-dia.PNG" alt="Dashboard del restaurante" width="400">
 
 ### 3. Waiters
 #### 3.1 Tips amount
@@ -60,6 +61,8 @@ Mauricio got the highest total tips among all waiters, ranking first. Although t
 
 #### 3.2 Average tip amount per order per waiter
 The average tip amount per order is $96.22. Mauricio, has an outstanding average tip amount per order of $143.22, and still got less orders amount than any other. This confirms the necessity of further investigation on Mauricio's sales strategies
+
+<img src="Images/propinas-meseros.PNG" alt="Dashboard del restaurante" width="400">
 
 ## Recommendations
 
