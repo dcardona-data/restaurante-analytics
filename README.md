@@ -43,7 +43,7 @@ According to the analysis, the key findings are the following:
 #### 1.1 Sales outliers
 Of total sales, 6.4% correspond to outliers sales, and from these, 71% are related with wines. Outliers where measured using IQR. Wines report a 31.08% profit margin, while main courses just 24.18%.
 ![utililty](images/utilidades.png)
-<img src="Images/utilidades.png" alt="Dashboard del restaurante" width="600">
+<img src="Images/utilidades.PNG" alt="Dashboard del restaurante" width="600">
 
 #### 1.2 Customer patterns
 Busiest days are weekends with most of sales on fridays and saturdays. Also, in those days there are most new customers which besides give more tips than regular ones. 
