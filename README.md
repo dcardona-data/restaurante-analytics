@@ -64,6 +64,10 @@ The average tip amount per order is $96.22. Mauricio, has an outstanding average
 
 <img src="Images/propinas-meseros.PNG" alt="Dashboard del restaurante" width="400">
 
+## Dashboard
+All these key findings can be found in the dashboard found in this repository. Here is left just a single capture:
+<img src="/Images/dashboard.PNG" alt="Dashboard del restaurante" width="400">
+
 ## Recommendations
 
 Based on these findings:
